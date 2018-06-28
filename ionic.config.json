@@ -1,0 +1,8 @@
+{
+  "name": "nls-ionic3-crawler",
+  "app_id": "e9d2ca13",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
