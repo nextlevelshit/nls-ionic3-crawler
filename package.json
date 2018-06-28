@@ -1,8 +1,11 @@
 {
   "name": "nls-ionic3-crawler",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "homepage": "https://dailysh.it",
+  "author": {
+    "email": "mail@dailysh.it",
+    "name": "Michael Czechowski"
+  },
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -36,5 +39,5 @@
     "@ionic/app-scripts": "3.1.10",
     "typescript": "~2.6.2"
   },
-  "description": "An Ionic project"
+  "description": "Web crawler with background notifications if content on page changes"
 }
